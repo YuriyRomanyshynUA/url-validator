@@ -3,5 +3,8 @@
 ~*
 .~*
 __pycache__
-res
+*res*
 .*venv*
+.*
+*.json*
+*egg-info*
